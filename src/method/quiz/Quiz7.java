@@ -15,7 +15,7 @@ public class Quiz7 {
 	}
 	
 	public static void main(String[] args) {
-		hap(932);
+		hap(321);
 	}
 
 }
